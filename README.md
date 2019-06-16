@@ -19,13 +19,19 @@ Contains the use of
 
 * Apache Commons CSV librarie
 * Interface
+* Static methods
 * Implements
+* Comparable
 * Scanner
 * Random
+* FileReader
+* Reader
+* Override
 * HashMap
-* File
+* ArrayList
 * Array
 * IOException
+* Iterable
 * for loops
 * for each loops
 * and more..
